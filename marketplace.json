@@ -1,0 +1,38 @@
+[
+  {
+    "id": "eztv",
+    "name": "EZTV",
+    "description": "Provides TV show torrents from EZTV API using IMDb ID",
+    "author": "Goji",
+    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/eztv.json",
+    "icon": "https://eztv.re/favicon.ico",
+    "type": "movie-torrent-provider",
+    "language": "javascript",
+    "lang": "en",
+    "website": "https://eztv.re"
+  },
+  {
+    "id": "flixhq-provider",
+    "name": "FlixHQ",
+    "description": "Provides movie and TV show streaming from FlixHQ with PoW captcha solving and AES-256-GCM decryption.",
+    "author": "Goji",
+    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/flixhq-provider.json",
+    "icon": "https://flixhq.one/images/favicon.png",
+    "type": "movie-onlinestream-provider",
+    "language": "javascript",
+    "lang": "en",
+    "website": "https://flixhq.one"
+  },
+  {
+    "id": "yts",
+    "name": "YTS",
+    "description": "Provides movie torrents from yts.mx API",
+    "author": "Goji",
+    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/yts.json",
+    "icon": "https://yts.gg/assets/images/website/favicon-160x160.png",
+    "type": "movie-torrent-provider",
+    "language": "javascript",
+    "lang": "en",
+    "website": "https://yts.mx"
+  }
+]
