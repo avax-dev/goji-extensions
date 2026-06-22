@@ -7,7 +7,7 @@
   "type": "movie-onlinestream-provider",
   "description": "Provides movie and TV show streaming from FlixHQ with PoW captcha solving and AES-256-GCM decryption.",
   "author": "Goji",
-  "icon": "https://cdn-icons-png.flaticon.com/512/3507/3507102.png",
+  "icon": "https://flixhq.one/images/favicon.png",
   "website": "https://flixhq.one",
   "readme": "Provides movie and TV show streaming from FlixHQ with PoW captcha solving and AES-256-GCM decryption.",
   "lang": "en",
