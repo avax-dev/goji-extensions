@@ -1,6 +1,6 @@
 [
   {
-    "id": "welcome-announcement",
+    "id": "welcome-announcement2",
     "title": "Welcome to Your Custom Goji App!",
     "message": "Thanks for compiling your custom build. Check this update announcements and settings directly in your repository announcements.json!",
     "type": "dialog",
