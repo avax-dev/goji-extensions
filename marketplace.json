@@ -16,7 +16,7 @@
     "name": "FlixHQ",
     "description": "Provides movie and TV show streaming from FlixHQ with PoW captcha solving and AES-256-GCM decryption.",
     "author": "Goji",
-    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/flixhq-provider.json",
+    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/flixhq.json",
     "icon": "https://flixhq.one/images/favicon.png",
     "type": "movie-onlinestream-provider",
     "language": "javascript",
