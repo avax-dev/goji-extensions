@@ -2,7 +2,7 @@
   {
     "id": "welcome-announcement",
     "title": "Welcome to Your Custom Goji App!",
-    "message": "Thanks for compiling your custom build. Update announcements and settings directly in your repository announcements.json!",
+    "message": "Thanks for compiling your custom build. Check this update announcements and settings directly in your repository announcements.json!",
     "type": "dialog",
     "severity": "info",
     "date": "2026-06-22",
