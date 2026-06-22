@@ -7,7 +7,7 @@
   "type": "movie-torrent-provider",
   "description": "Provides movie torrents from yts.mx API",
   "author": "Goji",
-  "icon": "https://cdn-icons-png.flaticon.com/512/5977/5977585.png",
+  "icon": "https://yts.gg/assets/images/website/favicon-160x160.png",
   "website": "https://yts.mx",
   "readme": "Provides movie torrents from yts.mx API using IMDb ID",
   "lang": "en",
