@@ -7,7 +7,7 @@
   "type": "movie-torrent-provider",
   "description": "Provides TV show torrents from EZTV API using IMDb ID",
   "author": "Goji",
-  "icon": "https://cdn-icons-png.flaticon.com/512/3074/3074291.png",
+  "icon": "https://eztv.re/favicon.ico",
   "website": "https://eztv.re",
   "readme": "Provides TV show torrents from EZTV API using IMDb ID",
   "lang": "en",
