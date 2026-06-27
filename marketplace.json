@@ -34,5 +34,33 @@
     "language": "javascript",
     "lang": "en",
     "website": "https://yts.mx"
+  },
+  {
+    "id": "asurascans",
+    "name": "AsuraScans",
+    "version": "1.1.2",
+    "author": "Pal",
+    "description": "AsuraScans is a manga provider for Seanime",
+    "type": "manga-provider",
+    "language": "javascript",
+    "lang": "en",
+    "icon": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/public/asurascans.webp",
+    "manifestURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/src/manga/asurascans/manifest.json",
+    "payloadURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/src/manga/asurascans/provider.js",
+    "website": "",
+    "flags": "0/59",
+    "flaggedBy": [],
+    "permalink": "https://www.virustotal.com/gui/file/f50eb061da0e8531fe0e985c93990ccd531718b548066f275eb18eee840ff1c7",
+    "workingTag": false,
+    "brokenTag": false,
+    "deprecatedTag": false,
+    "tags": [
+      "1359183211099459916",
+      "1360636715643179231"
+    ],
+    "scannedOnVersion": "3.8.7",
+    "lastWorkingVersion": null,
+    "stars": 4,
+    "threadId": "1459989841243803885"
   }
 ]
