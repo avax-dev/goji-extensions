@@ -36,6 +36,18 @@
     "website": "https://yts.mx"
   },
   {
+    "id": "cinesrc-provider",
+    "name": "CineSrc",
+    "description": "Provides movie and TV show streaming from cinesrc.st with native RSA-OAEP + AES-256-GCM encryption.",
+    "author": "Goji",
+    "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/cinesrc.json",
+    "icon": "",
+    "type": "movie-onlinestream-provider",
+    "language": "javascript",
+    "lang": "en",
+    "website": ""
+  },
+  {
     "id": "asurascans",
     "name": "AsuraScans",
     "version": "1.1.2",
