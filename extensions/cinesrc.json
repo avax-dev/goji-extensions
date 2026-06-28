@@ -2,7 +2,7 @@
   "id": "cinesrc-provider",
   "name": "CineSrc",
   "version": "1.0.0",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/refs/heads/main/extensions/cinesrc.json",
   "language": "javascript",
   "type": "movie-onlinestream-provider",
   "description": "Provides movie and TV show streaming from cinesrc.st with native RSA-OAEP + AES-256-GCM encryption.",
