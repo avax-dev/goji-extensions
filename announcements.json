@@ -2,7 +2,7 @@
   {
     "id": "release-v0.2.28",
     "title": "Goji v0.2.28 Available",
-    "message": "A new version of Goji has arrived with key quality-of-life updates:\n• Live Player HUD: Battery percentage and charging status now refresh in real-time during playback.\n• Episode Release Alarms: Background push notifications now schedule automatically so you never miss an episode.\n• In-App Manga Alerts: Notifies you the moment new chapters drop while browsing or watching.\n• In-App APK Downloader: Download and install new updates directly within Goji with live progress tracking.",
+    "message": "A new version of Goji has arrived with key quality-of-life updates:\n• Live Player HUD: Battery percentage and charging status now refresh in real-time during playback.\n• Episode Release Alarms: Background push notifications now schedule automatically so you never miss an episode.\n• In-App Manga Alerts: Notifies you the moment new chapters drop while browsing or watching.",
     "type": "dialog",
     "severity": "warning",
     "date": "2026-10-10",
