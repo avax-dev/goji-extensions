@@ -15,7 +15,7 @@
   {
     "id": "flixhq-provider",
     "name": "FlixHQ",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Provides movie and TV show streaming from FlixHQ with PoW captcha solving and AES-256-GCM decryption.",
     "author": "Goji",
     "manifestURI": "https://raw.githubusercontent.com/avax-dev/goji-extensions/main/extensions/flixhq.json",
