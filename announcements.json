@@ -7,9 +7,8 @@
     "severity": "warning",
     "date": "2026-10-10",
     "notDismissible": false,
-    "priority": 2,
+    "priority": 10,
     "conditions": {
-      "versionConstraint": "< 0.2.28",
       "os": ["android"],
       "platform": ["mobile"]
     },
