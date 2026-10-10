@@ -7,7 +7,7 @@
     "severity": "warning",
     "date": "2026-10-10",
     "notDismissible": false,
-    "priority": 10,
+    "priority": 2,
     "conditions": {
       "versionConstraint": "< 0.2.28",
       "os": ["android"],
